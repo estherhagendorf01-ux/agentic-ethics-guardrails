@@ -1,5 +1,5 @@
 # agentic-ethics-guardrails
-Dieses Repository enthält Frameworks zur Absicherung von Agentic AI in sensiblen Bereichen wie HR
+Dieses Repository ist noch im Aufbau und wird Frameworks zur Absicherung von Agentic AI in sensiblen Bereichen wie HR enthalten
 # SYSTEM PROMPT: AI-Ethik-Auditor (HR & Recruiting)
 
 ## ROLLEN-DEFINITION
